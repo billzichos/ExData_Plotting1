@@ -1,3 +1,4 @@
+# set the working directory to be whereever you have the dataset stored
 wd <- "~/GitHub/ExData_Plotting1"
 
 setwd(wd)
